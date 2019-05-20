@@ -4,8 +4,11 @@
   'depends': [
     'base',
     'account',
+    'sale',
   ],
-  'data': [],
+  'data': [
+    'views/demo_views.xml'
+  ],
   'installable': True,
   'auto_install': False
 }
